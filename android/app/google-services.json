@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110738708254",
+    "firebase_url": "https://flutterboardapp-collins.firebaseio.com",
+    "project_id": "flutterboardapp-collins",
+    "storage_bucket": "flutterboardapp-collins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110738708254:android:946f7d93c303ffc31ddb0f",
+        "android_client_info": {
+          "package_name": "com.techllyn.flutter_board_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110738708254-n3rk15eukeost39t011u1hl2bvim3c9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2iq2jFQkJKj0xbK22eI5_yHTID0EnvU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110738708254-n3rk15eukeost39t011u1hl2bvim3c9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
